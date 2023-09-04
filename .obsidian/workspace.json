@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "b5c44db659a135bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "260b68da998e855e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acff91af066adf86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.索引/MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "493e36553c0955a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11419950261a4903",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7ec3358b9e537f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47c3f6b6041c34d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4aaa6451adf3b4a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.索引/MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbe1a0d366a7347e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "868a9ff17a36baa2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#单行函数测试题",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5a76350aa4802281",
+    "type": "split",
+    "children": [
+      {
+        "id": "04770f4ae7c767fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e02cd48b17b4ffd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "178ac2c49e01eca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "397dd3055ca38fc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2034268075dff400",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": true,
+      "random-note:开始漫游笔记": true,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "493e36553c0955a9",
+  "lastOpenFiles": [
+    "2.笔记/分组函数.md",
+    "2.笔记/常见函数.md",
+    "1.索引/MySQL.md",
+    "2.笔记/java基础.md",
+    "2.笔记/MySQL数据库简介.md",
+    "3.附件/test_lesson01 基本SQL-SELECT语句.pdf",
+    "3.附件/test_lesson02 过滤数据.pdf",
+    "3.附件/test_lesson03 排序数据 .pdf",
+    "3.附件/test_lesson04 单行函数.pdf",
+    "未命名.canvas",
+    "2.笔记/单行函数测试题.md",
+    "2.笔记/单行函数.md",
+    "2.笔记/字符函数举例.md",
+    "2.笔记/DQL语言学习.md",
+    "2.笔记/数学函数举例.md",
+    "2.笔记/日期函数举例.md",
+    "2.笔记/常见命令举例.md",
+    "2.笔记/基础查询举例.md",
+    "2.笔记/流程控制函数举例.md",
+    "2.笔记/条件查询举例.md",
+    "2.笔记/排序查询举例.md",
+    "3.附件/MySQL数据库引入.md",
+    "1.索引/后端学习.md",
+    "3.附件/未命名.md",
+    "3.附件/01_尚硅谷_MySQL基础_课程引入.txt",
+    "3.附件/网站搭建学习.pdf",
+    "3.附件",
+    "2.笔记",
+    "1.索引",
+    "未命名.md",
+    "Java基础.md"
+  ]
+}

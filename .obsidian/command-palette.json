@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "editor:toggle-source",
+    "app:go-back",
+    "outline:open-for-current",
+    "workspace:toggle-pin",
+    "tag-pane:open",
+    "editor:attach-file",
+    "file-explorer:new-file"
+  ]
+}
